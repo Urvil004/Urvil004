@@ -112,14 +112,14 @@ Scalable MERN applications with clean architecture, REST/GraphQL APIs, and produ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UrvilDarji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrvilDarji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urvil004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvil004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=UrvilDarji&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+![GitHub Streak](https://streak-stats.demolab.com?user=Urvil004&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
@@ -129,7 +129,7 @@ Scalable MERN applications with clean architecture, REST/GraphQL APIs, and produ
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=UrvilDarji&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=Urvil004&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -139,7 +139,7 @@ Scalable MERN applications with clean architecture, REST/GraphQL APIs, and produ
 
 <div align="center">
 
-[![Urvil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UrvilDarji&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Urvil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Urvil004&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -159,7 +159,7 @@ Scalable MERN applications with clean architecture, REST/GraphQL APIs, and produ
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=UrvilDarji&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Urvil004&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 **"Build things that matter. Automate everything else."**
 

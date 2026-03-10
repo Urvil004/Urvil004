@@ -112,8 +112,14 @@ Scalable MERN applications with clean architecture, REST/GraphQL APIs, and produ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urvil004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=1800&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvil004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=1800&langs_count=8" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Urvil004&cc=0d1117&tc=a78bfa&ic=ffffff&bc=0d1117" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Urvil004&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urvil004&theme=tokyonight" width="100%" />
 
 </div>
 
